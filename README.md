@@ -1,8 +1,8 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/86922118?v=4" width="312px">
 
-# Skyde
+# FzOrb
 
-Hey all, Skyde here and damn does this profile SUCK!
+Hey all, FzOrb here and damn does this profile SUCK!
 
 
 
