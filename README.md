@@ -1,10 +1,23 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/86922118?v=4" width="312px">
+# Hello there!
+Hi, my name is FzOrb and I develop software.
 
-# FzOrb
+### Specs:
+**Laptop:** i5 2nd gen, 8 gigs of ram, arch linux + awesomewm  
+**Desktop:** Ryzen 5 4600, 16 gigs of ram, windows 11 & kde neon
 
-Hey all, FzOrb here and damn does this profile SUCK!
+### Skillset:
+**Python:** flask, raylibpy  
+**PHP:** vanilla, laravel, pmmp  
+**Java:** bukkit, libGDX  
+**C++:** raylib  
+**MySQL:** vanilla
 
-
-
-
-### ⚠️ Proceed with caution! The code below can give you syntomes such as "badcodezitis" and "singlefilezitis". We are not liable if you get any of these. You have been warned!
+### Reaching out to me:
+Email: <a href="mailto:skyde404@gmail.com">skyde404@gmail.com</a>  
+Discord: <a href="https://discord.com/users/963681560442331177">FzOrb#6391</a>  
+Telegram: <a href="https://t.me/Skyde72">@Skyde72</a>  
+Twitter: <a href="https://twitter.com/fzorb_">@fzorb_</a>  
+  
+```cpp
+return true;
+```
