@@ -19,6 +19,8 @@ Telegram: <a href="https://t.me/Skyde72">@Skyde72</a>
 Twitter: <a href="https://twitter.com/fzorb_">@fzorb_</a>  
 *PLEASE NOT THAT IF YOU ASK ME FOR COMMISIONS YOU WILL BE IGNORED*
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fzorb)](https://git.io/streak-stats)
+
 ```cpp
 return true;
 ```
