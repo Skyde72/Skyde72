@@ -6,7 +6,7 @@ Hi, my name is FzOrb and I develop software.
 **Desktop:** Ryzen 5 4600, 16 gigs of ram, windows 11 & kde neon
 
 ### Skillset:
-**Python:** flask, raylibpy, discum
+**Python:** flask, raylibpy, discum  
 **PHP:** vanilla, laravel, pmmp  
 **Java:** bukkit, libGDX  
 **C++:** raylib  
