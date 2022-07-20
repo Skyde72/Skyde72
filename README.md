@@ -10,8 +10,8 @@ Hi, my name is FzOrb and I develop software.
 **PHP:** vanilla, laravel, pmmp  
 **Java:** bukkit, libGDX  
 **C++:** raylib  
-**MySQL:** vanilla
-**JavaScript:** svelte (kinda)
+**MySQL:** vanilla  
+**JavaScript:** vue, nodejs
 
 ### Reaching out to me:
 Email: <a href="mailto:skyde404@gmail.com">skyde404@gmail.com</a>  
