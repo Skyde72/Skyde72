@@ -1,3 +1,3 @@
-Hi, I am fzorb.
+Hi, my name is Fzorb. I am a person from Bucharest, Romania with a deep passion for computers and technology. I am also interested in urbanism, games, history and music
 
-![Metrics](https://metrics.lecoq.io/fzorb?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FBucharest)
+Most of my git repositories are now on https://git.fzorb.xyz/fzorb. Do with that as you will.
